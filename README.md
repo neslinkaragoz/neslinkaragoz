@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neslinkaragoz
+- 👋 Hi, I’m @neslin
 - 🌱 
 
 <!---
