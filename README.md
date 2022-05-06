@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neslinkaragoz
-- 🌱 I’m currently learning Java...
+- 🌱 
 
 <!---
 neslinkaragoz/neslinkaragoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
